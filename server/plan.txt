@@ -1,0 +1,5 @@
+First step: Create an active connect (maybe socket) that listens for incoming requests
+
+Step 2: Find way to authenticate that request
+
+Step 3: Allow for requests to change file contents and regulate the files that are edited (prevent user to edit or restrict viewing files outside the allowed).

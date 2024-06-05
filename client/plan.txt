@@ -1,0 +1,4 @@
+Step 1: Make a CLI or GUI that allows to connect to server
+
+
+Step 2: Build a simple editor or service that allows text editor to actively edit the file and manipulate and save it
