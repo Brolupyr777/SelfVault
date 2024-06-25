@@ -1,3 +1,5 @@
+Step 1: Listen for incoming connection request. Respond with a Hello World when established.
+
 First step: Create an active connect (maybe socket) that listens for incoming requests
 
 Step 2: Find way to authenticate that request
