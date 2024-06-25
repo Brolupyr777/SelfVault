@@ -1,4 +1,6 @@
+Step 1: Send a tcp or websocket signal requesting to connect
+Step 2: Able to comunicate with server via plain text, kind of like a chat.
+
+
 Step 1: Make a CLI or GUI that allows to connect to server
 
-
-Step 2: Build a simple editor or service that allows text editor to actively edit the file and manipulate and save it
